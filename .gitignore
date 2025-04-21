@@ -1,0 +1,10 @@
+venv/
+
+# Byte-complied /optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+__pycache__
+
+#c extensions
+*.so
