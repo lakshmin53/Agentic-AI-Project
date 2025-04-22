@@ -1,5 +1,3 @@
-"# Agentic-AI-Project" 
-
 ---
 title: LanggraphAgenticAI
 emoji: 🐨
